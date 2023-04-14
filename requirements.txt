@@ -1,0 +1,4 @@
+flask-SQLAlchemy
+flask
+flask-cors
+cheroot
