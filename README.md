@@ -17,3 +17,9 @@ vuex store
 axios
 tailwind css
 fontawesome icons
+
+
+run pip install -r requirements.txt
+
+cd frontend
+npm install
